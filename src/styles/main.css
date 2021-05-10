@@ -1,0 +1,14 @@
+
+a{
+    text-decoration: none;
+    color: white;
+}
+@media (min-width: 0px) and (max-width: 430px){ 
+
+    #imgProject {
+        width: 90vw;
+        height: 90vw;
+    }
+    
+}
+
